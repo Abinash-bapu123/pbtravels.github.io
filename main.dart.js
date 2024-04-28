@@ -80803,7 +80803,7 @@ i=h.f.w
 i.toString
 f=h
 s=8
-return A.R(new A.a8U().rd(A.ho(B.M,null,A.bs(null,A.cB(A.a([m,B.dz,o,n,k,j,A.pA(A.bB(A.a([A.bB(null,B.cu,B.b.bL(i,", "))],l),B.cw,"Booked Seats/Sleepers: "),null,null),B.dz,A.pA(A.bB(A.a([A.bB(null,B.cu,h.f.b)],l),B.cw,"Date: "),null,null)],t.p),B.a2,B.r,B.t),B.l,null,null,new A.bv(null,null,g,null,null,null,B.B),null,null,null,B.aW,null,null,q.b*0.15),B.l,null,0,null,null,null,null,null,B.bY)),$async$$0)
+return A.R(new A.a8U().rd(A.ho(B.M,null,A.bs(null,A.cB(A.a([m,B.dz,o,n,k,j,A.pA(A.bB(A.a([A.bB(null,B.cu,B.b.bL(i,", "))],l),B.cw,"Booked Seats/Sleepers: "),null,null),B.dz,A.pA(A.bB(A.a([A.bB(null,B.cu,h.f.b)],l),B.cw,"Date: "),null,null)],t.p),B.a2,B.r,B.t),B.l,null,null,new A.bv(null,null,g,null,null,null,B.B),null,null,null,B.aW,null,null,250),B.l,null,0,null,null,null,null,null,B.bY)),$async$$0)
 case 8:g=f.ux(b,p)
 s=9
 return A.R(g,$async$$0)

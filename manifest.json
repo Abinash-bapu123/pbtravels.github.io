@@ -1,11 +1,11 @@
 {
-    "name": "p_b_travels",
-    "short_name": "p_b_travels",
+    "name": "PB Travels",
+    "short_name": "PB Travels",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Book bus tickets online with ease! Find routes, check availability, and secure your seats. Fast, reliable, and convenient bus booking service.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

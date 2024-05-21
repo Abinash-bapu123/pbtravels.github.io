@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6802ad2cce9773da1bb5b65b40c57174
 "assets/AssetManifest.bin.json": "ce6335d006830a8fbd8c0840c57c0ae1",
 "assets/AssetManifest.json": "8d27cd6bd690962e6926575eded56cd0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "24f99c1fcaa554b9604b906838a35a0d",
+"assets/fonts/MaterialIcons-Regular.otf": "6ea27d18138bef9d036fd2758c19c8f3",
 "assets/images/bus-50pl-bg.jpg": "2cf3bbb2aeb682f5e11454fafd915c46",
 "assets/images/home1.jpeg": "7afdb5ac148218bc230c9dbc62b059db",
 "assets/images/home2.jpg": "dd4a6d46169b08515d2ce73228917e6f",
@@ -37,9 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "6802ad2cce9773da1bb5b65b40c57174
 "icons/Icon-512.png": "8cc9174e7250dd4e54156b4e56a47713",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9e76b45e2f483f41dee80c9879e462d6",
-"/": "9e76b45e2f483f41dee80c9879e462d6",
-"main.dart.js": "0b1d2cd6254234e534a00f3bb74e7e0d",
+"index.html": "08c542106b04f875945f4cf8735146a5",
+"/": "08c542106b04f875945f4cf8735146a5",
+"main.dart.js": "0ff352b805bf4cd0b3341eed4fee9455",
 "manifest.json": "a2d8ccd985c3efb54b63959711fb6585",
 "version.json": "f4e68d9d52d45ed7822677b116e7f9e1"};
 // The application shell files that are downloaded before a service worker can
